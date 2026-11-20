@@ -1,0 +1,14 @@
+header {
+    font: var(--size-titleB) var(--ff-main);
+    color: var(--color-letter-background);
+    background-image: url(../assets/images/parallax-imagem1.png);
+    text-transform: uppercase;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    height: 100vh;
+    background-size: cover;
+    background-attachment: fixed;
+}

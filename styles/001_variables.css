@@ -1,0 +1,28 @@
+:root {
+    /* Colors */
+    --color-backgroud: #604829;
+    --color-letter-background: #fff;
+    --color-background-footer: #000000;
+    --color-primary-letter: #c4a47c;
+    --color-paragraf: #666;
+    --color-border: #ACACAC;
+
+    /* Fonts */
+    --ff-main: "Fraunces", serif;
+    --ff-second: "Oswald", sans-serif;
+    --ff-third: "Lato", sans-serif;
+
+    /* Sizes */
+    --size-small: 0.875rem;
+    --size-base: 1rem;
+    --size-base2: 1.125rem;
+    --size-medium: 1.5rem;
+    --size-title: 2.5rem;
+    --size-titleB: 6.25rem;
+
+    /* spaces */
+    --s-0_5: 0.5rem;
+    --s-1: 1rem;
+    --s-1_5: 1.5rem;
+    --s-2: 2rem;
+}
