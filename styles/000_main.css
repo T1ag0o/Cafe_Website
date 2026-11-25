@@ -2,3 +2,10 @@
 @import url(002_header.css);
 @import url(003_nav.css);
 @import url(004_globa.css);
+@import url(005_sections.css); 
+@import url(006_footer.css); 
+
+
+html {
+  scroll-behavior: smooth;
+}

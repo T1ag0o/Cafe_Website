@@ -1,0 +1,48 @@
+footer {
+    color: var(--color-letter-background);
+    font: var(--size-base) var(--ff-third);
+
+    background-color: var(--color-background-footer);
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: var(--size-20);
+
+    padding-block: var(--size-20);
+
+    & p {
+
+        & a {
+            text-decoration: none;
+            color: var(--color-primary-letter);
+
+            display: flex;
+            align-items: center;
+            gap: 3px;
+
+            & svg {
+                height: 30px;
+            }
+        }
+    }
+
+    & p:last-child {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 6px;
+    }
+}
+
+#return-top {
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    height: var(--size-60);
+    width: var(--size-60);
+
+    position: fixed;
+    bottom: var(--size-80);
+    right: var(--size-50);
+}
