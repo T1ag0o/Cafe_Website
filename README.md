@@ -38,7 +38,24 @@ Present the coffee shop to visitors: who we are, where we are, and when we are o
 
 ### Sizes
 
-> To be defined. Suggested: use `rem` units and store them as CSS variables.
+|  Value |
+|---|
+|  --size-small: 0.875rem; |
+|  --size-base: 1rem; |
+|  --size-base2: 1.125rem; |
+|  --size-20: 1.25rem; |
+|  --size-medium: 1.5rem; |
+| --size-title: 2.5rem;  |
+| --size-60: 3.75rem;  |
+|  --size-50:3.125rem; |
+| --size-80: 5rem;  |
+|  --size-titleB: 6.25rem; |
+|  --size-80: 5rem; |
+|  --size-xxl: 64rem; |
+| --size-450: 28.125rem;  |
+| --size-500: 31.25rem;  |
+| --s-0_5: 0.5rem;  |
+|  --s-2: 2rem; |
 
 ## 4. Page Structure
 
